@@ -6,3 +6,6 @@ def difference(a,b):
 
 def divideby10(a):
 	return a/10.
+
+def power10(x):
+	return 10**x
