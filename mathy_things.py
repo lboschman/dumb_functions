@@ -9,3 +9,6 @@ def divideby10(a):
 
 def power10(x):
 	return 10**x
+
+def root(x, y):
+	return x**(1/y)
